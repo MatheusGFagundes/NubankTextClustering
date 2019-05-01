@@ -1,3 +1,3 @@
 # NubankTextClustering
-this repository regards text analytics and text clustering of complaints from reclame aqui
+this repository contains text analytics and text clustering of complaints from reclame aqui
  
